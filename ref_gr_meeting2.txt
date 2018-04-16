@@ -1,0 +1,16 @@
+Reference group meeting 2: 12.04.18 
+
+Course has been taught for many years. In spite of this, Kristian discovered 
+that book wasn't particularly complete in terms of the applications of fourier 
+analysis. Therefore many of the topics covered were picked from other books.
+
+Based on this, the book should probably be replaced for next year.
+
+In terms of material, fourier analysis itself could have been elaborated more.
+
+The exercises worked out all right, but consider adding a project for next year.
+For it to count towards the final grade the course description must be updated.
+A project would be a nice way for students from different backgrounds to elaborate
+on material relevant to them, and their further development.
+
+Q&A session friday 18th of may?
